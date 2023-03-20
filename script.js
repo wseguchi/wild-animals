@@ -1,4 +1,4 @@
 const animais = document.getElementById('animais');
 console.log(animais.getAttribute('id'));
 
-animais.setAttribute('data', 'test');
+animais.setAttribute('data-test', 'info');
